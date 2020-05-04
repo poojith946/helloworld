@@ -14,10 +14,7 @@ import org.codehaus.jackson.annotate.JsonIgnore;
 //import com.fasterxml.jackson.annotation.JsonIgnore;
 
 
-/**
- * @author santhoshkrc
- *
- */
+
 @Entity
 @Table(name = "Activity_Log_Details")
 public class ActivityLogDetail {
